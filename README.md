@@ -1,7 +1,28 @@
-#Ultimate-GTASA-TuningGuide-v0.0.1-EA
+#Ultimate GTASA TuningKit:GateWay v0.0.1 EA
 Trying to be a quality guidace with good principle
 
 Link Share:
+TJGM's Youtube Site:https://youtube.com/@tjgm?si=5nR-tQY-TULEelPo
+
+TJGM GTASA Ultimate Modding Guide B站转载版(熟肉)：https://space.bilibili.com/12448489/lists/1761441?type=season
+
+Mixmods：https://www.mixmods.com.br/
+GTAinside：https://www.gtainside.com/en/news.php
+GTAall：https://www.gtaall.com/
+GameModding：https://gamemodding.com/en/gta-san-andreas/
+Liberty City：https://libertycity.net/
+GTAGarage：https://www.gtagarage.com/mods/browse.php?Game=5
+GTAForums：https://gtaforums.com
+Nexus Mods：https://www.nexusmods.com/gtasanandreas
+Game Banana：https://gamebanana.com/
+
+(Moder)JuniorDjjr：https://github.com/JuniorDjjr
+Zettouworks：https://zettouworks.blogspot.com/
+Echo WORK：https://echo-work-project.github.io/
+DriftingCL：https://gtadriftingcl.blogspot.com/
+
+----
+
 Edge:
 https://www.microsoft.com/en-us/edge/download?form=MA13RE?ocid=ORSEARCH_Bing&msockid=01f9a9ec856e60501d01b9978424614d
 
@@ -30,6 +51,8 @@ https://www.mixmods.com.br/2022/09/crashinfo/
 SCRLog：
 https://www.mixmods.com.br/2020/10/iii-vc-sa-scrlog-2020-3-descobrir-crash-em-mod-cleo/
 
+----
+
 GTASA Crash Killer：(Maybe Not Original)
 https://sannybuilder.com/forums/viewtopic.php?pid=9205
 
@@ -37,6 +60,8 @@ SAMP:
 SAMP:https://www.sa-mp.mp/
 Open-mp:https://www.openmp.org/
 --I personally recommend SAMP-R5 client but you can install them both
+
+----
 
 Large Address:(4GB Memory Patch)
 https://www.mixmods.com.br/2016/09/iii-vc-sa-largeaddress-reconhecer-3-4-gb-de-ram
@@ -92,6 +117,8 @@ https://www.detonandogta.com.br/2021/04/gta-sa-moddedsaa.html
 
 SkyGfx:
 https://www.mixmods.com.br/2024/03/sa-skygfx/
+
+----
 
 San Andreas Ambient Sounds:
 https://www.mixmods.com.br/2018/07/saas-san-andreas-ambient-sounds
