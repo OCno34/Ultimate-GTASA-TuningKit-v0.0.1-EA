@@ -39,6 +39,7 @@ https://www.microsoft.com/en-us/edge/download?form=MA13RE?ocid=ORSEARCH_Bing&mso
 
 Neat Download Manager:
 https://microsoftedge.microsoft.com/addons/detail/neatdownloadmanager-exten/pbghcbaeehloijjcebiflemhcebmlnke
+
 https://github.com/Neatdownloadmanager/Neat-Download-Manager
 
 7-Zip：
@@ -68,8 +69,11 @@ GTASA Crash Killer：(Maybe Not Original)
 https://sannybuilder.com/forums/viewtopic.php?pid=9205
 
 SAMP:
+
 SAMP:https://www.sa-mp.mp/
+
 Open-mp:https://www.openmp.org/
+
 --I personally recommend SAMP-R5 client but you can install them both
 
 ----
@@ -111,7 +115,9 @@ Framerate Vigilante：
 https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/
 
 ImVehFt(IVF) v2.1.1 Fixed：
+
 Original：https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/
+
 Fixed Asi：https://www.mixmods.com.br/2020/01/imvehftfix-correcoes-para-ivf/
 
 VehFuncs v2.4:
@@ -160,9 +166,12 @@ https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen
 
 RoSA Project Evolved v1.4:
 https://www.detonandogta.com.br/2021/08/gta-sa-rosa-project-evolved.html
+
 https://www.mixmods.com.br/2023/05/rosa-project-evolved-remaster-texturas-hd
+
 Adjust to SAMP：
 https://forum.mixmods.com.br/f54-sobre-os-jogos/t8794-samp-tutorial-how-to-use-rosa-project-evolved-in-s
+
 https://drive.google.com/file/d/1W1Rt54TLIpZ7kxvvrcC52kBqm923teyl/view
 
 Proper Fixes v1.5:
