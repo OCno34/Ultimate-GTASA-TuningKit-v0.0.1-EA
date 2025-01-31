@@ -58,3 +58,58 @@ https://www.mixmods.com.br/2022/11/cleoplus
 
 ModLoader v0.3.7:
 https://github.com/thelink2012/modloader/releases
+
+Slient Patch:
+https://github.com/CookiePLMonster/SilentPatch
+
+WideScreen Fix 2018 Recommend Version:
+https://www.mixmods.com.br/2021/05/widescreen-fix-para-gta-sa-corrigir-widescreen/
+
+Open Limit Adjuster(OLA) v1.5.9:
+https://www.mixmods.com.br/2022/10/open-limit-adjuster
+
+Fastman92 Limit Adjuster:
+https://www.mixmods.com.br/2022/01/fastman92-limit-adjuster/
+
+Framerate Vigilante：
+https://www.mixmods.com.br/2022/08/iii-vc-sa-framerate-vigilante/
+
+ImVehFt(IVF) v2.1.1 Fixed：
+Original：https://www.mixmods.com.br/2020/01/imvehft-improved-vehicle-features/
+Fixed Asi：https://www.mixmods.com.br/2020/01/imvehftfix-correcoes-para-ivf/
+
+VehFuncs v2.4:
+https://www.mixmods.com.br/2023/01/sa-vehfuncs/
+
+Active Dash(Abandoned)：
+https://www.mixmods.com.br/2015/08/steering-active-dashboard/
+
+Vehicle Special Abilities Editor：(Maybe Not Original)
+https://gamemodding.com/en/gta-san-andreas/others/66175-vehicle-special-abilities-editor-12.html
+
+ModdedSAA：(Maybe Not Original)
+https://www.detonandogta.com.br/2021/04/gta-sa-moddedsaa.html
+
+SkyGfx:
+https://www.mixmods.com.br/2024/03/sa-skygfx/
+
+San Andreas Ambient Sounds:
+https://www.mixmods.com.br/2018/07/saas-san-andreas-ambient-sounds
+
+Throw Rotate Fix v2.0:
+https://www.mixmods.com.br/2022/08/throw-rotate-fix-molotov-granada-rodando-no-ar/
+
+Animation Fix + M4k3 Anims:
+https://www.mixmods.com.br/2022/02/animation-fix-v1-5-corrigir-bugs-de-animacoes/
+
+Missing Lampposts Fix:
+https://www.mixmods.com.br/2022/04/missing-lampposts-fix-more-light-posts
+
+Ladder Mods:
+https://www.mixmods.com.br/2022/11/ladders-mod-subir-escadas
+
+Atomsphere Interface Pack(Interface HD):
+https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd/
+
+ImprovedMove v0.2.2
+https://www.mixmods.com.br/2021/08/improvedmove/
