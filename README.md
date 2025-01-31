@@ -113,3 +113,25 @@ https://www.mixmods.com.br/2021/01/atmosphere-interface-pack-interface-hd/
 
 ImprovedMove v0.2.2
 https://www.mixmods.com.br/2021/08/improvedmove/
+
+Mobile Font Fixed:
+https://www.mixmods.com.br/2019/12/mobile-font-fixed-fonte-do-gta-sa-mobile-corrigida/
+
+Loadscreens 4K Definitive v1.1:
+https://www.mixmods.com.br/2021/12/loadscreens-4k-definitive-artworks-widescreen-hd/
+
+RoSA Project Evolved v1.4:
+https://www.detonandogta.com.br/2021/08/gta-sa-rosa-project-evolved.html
+https://www.mixmods.com.br/2023/05/rosa-project-evolved-remaster-texturas-hd
+Adjust to SAMP：
+https://forum.mixmods.com.br/f54-sobre-os-jogos/t8794-samp-tutorial-how-to-use-rosa-project-evolved-in-s
+https://drive.google.com/file/d/1W1Rt54TLIpZ7kxvvrcC52kBqm923teyl/view
+
+Proper Fixes v1.5:
+https://www.mixmods.com.br/2025/01/sa-proper-fixes/
+
+Project2DFX SA v4.4:
+https://github.com/ThirteenAG/III.VC.SA.IV.Project2DFX/releases/tag/gtasa
+
+无名汉化组汉化补丁(WuMing Group's Transulation Patch(Chinese))
+https://wmhhz.github.io/
